@@ -135,3 +135,13 @@ body{
     margin-top: 30px;
     padding: 20px;
 }
+/* AboutSide */
+  @import url('https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap');
+.aboutSide{
+    color: white;
+    padding: 10px 120px 120px 120px;
+    font-size: 30px;
+    text-align: justify;
+    line-height: 50px;
+    font-family: 'Comic Neue', cursive;
+}
