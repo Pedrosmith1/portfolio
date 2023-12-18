@@ -144,3 +144,12 @@ body{
     line-height: 50px;
     font-family: 'Comic Neue', cursive;
 }
+@media only screen and (max-width: 768px) {
+   .aboutSide{
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+    text-align: justify;
+    font-family: 'Comic Neue', cursive;
+}
+  }
